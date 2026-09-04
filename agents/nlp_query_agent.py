@@ -6,53 +6,28 @@ from transformers import (
     pipeline
 )
 
-
 # --------------------------------
-# MODEL PATH
+# HUGGING FACE MODEL PATH
 # --------------------------------
+# This points directly to your cloud repository
+MODEL_NAME = "kaiffkhann/nlp-query-model"
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-MODEL_PATH = (
-    BASE_DIR
-    / "model"
-    / "nlp_query_model"
-)
-
-print("Loading model from:")
-print(MODEL_PATH)
-
-# Check model exists
-if not MODEL_PATH.exists():
-    raise FileNotFoundError(
-        f"Model folder not found: {MODEL_PATH}"
-    )
-
+print(f"Loading model directly from Hugging Face: {MODEL_NAME}")
 
 # --------------------------------
 # LOAD TOKENIZER
 # --------------------------------
-
-tokenizer = AutoTokenizer.from_pretrained(
-    str(MODEL_PATH),
-    local_files_only=True
-)
-
+# Removed local_files_only=True so it fetches from the cloud
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 # --------------------------------
 # LOAD MODEL
 # --------------------------------
-
-model = AutoModelForSequenceClassification.from_pretrained(
-    str(MODEL_PATH),
-    local_files_only=True
-)
-
+model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME)
 
 # --------------------------------
 # CLASSIFIER
 # --------------------------------
-
 classifier = pipeline(
     "text-classification",
     model=model,
