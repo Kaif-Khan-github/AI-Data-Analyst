@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Product,Category,State,City,Region,Quantity,Sales,Profit,Latitude,Longitude
+Ord-0001,2025-01-21,Monitor,Electronics,Uttar Pradesh,Lucknow,North,5,83971.64,17847.96,26.8467,80.9462
+Ord-0002,2026-01-08,Cabinet,Furniture,Uttar Pradesh,Lucknow,North,3,30293.85,4788.62,26.8467,80.9462
+Ord-0003,2026-05-07,Table,Furniture,Rajasthan,Jaipur,North,3,40666.73,9958.66,26.9124,75.7873
+Ord-0004,2026-04-05,Chair,Furniture,Bihar,Patna,East,2,9327.28,1037.0,25.5941,85.1376
+Ord-0005,2025-02-28,Chair,Furniture,Telangana,Hyderabad,South,5,24443.75,3165.68,17.385,78.4867
+Ord-0006,2025-05-11,Tablet,Electronics,Telangana,Hyderabad,South,4,87345.47,15784.24,17.385,78.4867
+Ord-0007,2025-11-12,Tablet,Electronics,Delhi,New Delhi,North,5,107919.89,8876.96,28.6139,77.209
+Ord-0008,2025-12-06,Phone,Electronics,Bihar,Patna,East,2,57289.83,5534.44,25.5941,85.1376
+Ord-0009,2025-07-25,Desk,Furniture,West Bengal,Kolkata,East,4,47478.33,4075.83,22.5726,88.3639
+Ord-0010,2026-01-25,Monitor,Electronics,Maharashtra,Mumbai,West,2,36693.14,4879.85,19.076,72.8777
+Ord-0011,2026-07-10,Cabinet,Furniture,Chandigarh,Chandigarh,North,4,41064.05,10053.69,30.7333,76.7794
+Ord-0012,2026-04-01,Cabinet,Furniture,Maharashtra,Pune,West,4,44335.37,10495.01,18.5204,73.8567
+Ord-0013,2025-12-04,Desk,Furniture,Bihar,Patna,East,4,43590.76,5898.1,25.5941,85.1376
+Ord-0014,2026-05-08,Table,Furniture,Delhi,New Delhi,North,2,32212.38,5901.17,28.6139,77.209
+Ord-0015,2026-04-17,Laptop,Electronics,Tamil Nadu,Chennai,South,1,53881.98,11384.27,13.0827,80.2707
+Ord-0016,2026-01-14,Tablet,Electronics,Kerala,Kochi,South,1,22616.91,4847.48,9.9312,76.2673
+Ord-0017,2025-02-02,Cabinet,Furniture,Delhi,New Delhi,North,2,20258.84,4593.24,28.6139,77.209
+Ord-0018,2026-07-01,Desk,Furniture,Uttar Pradesh,Mumbai,North,5,61879.75,11657.2,26.8467,80.9462
+Ord-0019,2025-01-05,Tablet,Electronics,Maharashtra,Mumbai,West,5,118239.9,26523.02,19.076,72.8777
+Ord-0020,2026-07-08,Desk,Furniture,Telangana,Hyderabad,South,3,35787.31,5464.08,17.385,78.4867
+Ord-0021,2026-04-30,Tablet,Electronics,West Bengal,Kolkata,East,1,21044.85,3503.06,22.5726,88.3639
+Ord-0022,2026-06-09,Desk,Furniture,Uttar Pradesh,Lucknow,North,5,59830.28,6851.79,26.8467,80.9462
+Ord-0023,2025-01-28,Tablet,Electronics,Uttar Pradesh,Lucknow,North,4,93926.41,20417.77,26.8467,80.9462
+Ord-0024,2026-04-18,Monitor,Electronics,West Bengal,Kolkata,East,3,51752.63,5214.33,22.5726,88.3639
+Ord-0025,2025-09-16,Laptop,Electronics,Uttar Pradesh,Lucknow,North,1,47051.42,7180.44,26.8467,80.9462
+Ord-0026,2025-08-22,Chair,Furniture,Uttar Pradesh,Lucknow,North,3,14627.01,1722.45,26.8467,80.9462
+Ord-0027,2025-08-21,Table,Furniture,West Bengal,Kolkata,East,3,43117.94,7252.2,22.5726,88.3639
+Ord-0028,2026-01-21,Laptop,Electronics,Rajasthan,Jaipur,North,1,47285.24,5767.33,26.9124,75.7873
+Ord-0029,2025-04-23,Laptop,Electronics,Gujarat,Ahmedabad,West,5,237817.82,20516.73,23.0225,72.5714
+Ord-0030,2025-08-13,Phone,Electronics,Maharashtra,Pune,West,4,109111.94,13897.58,18.5204,73.8567
+Ord-0031,2026-02-20,Tablet,Electronics,Maharashtra,Mumbai,West,2,43805.0,6838.97,19.076,72.8777
+Ord-0032,2025-10-21,Monitor,Electronics,Uttar Pradesh,Lucknow,North,3,52193.04,6324.08,26.8467,80.9462
+Ord-0033,2026-05-26,Keyboard,Electronics,Karnataka,Bengaluru,South,4,15078.23,2228.56,12.9716,77.5946
+Ord-0034,2026-02-07,Bookshelf,Furniture,Maharashtra,Mumbai,West,4,35693.13,7077.53,19.076,72.8777
+Ord-0035,2026-05-04,Tablet,Electronics,Telangana,Hyderabad,South,3,63542.15,6122.29,17.385,78.4867
+Ord-0036,2026-04-18,Table,Furniture,Maharashtra,Mumbai,West,2,31523.63,6142.93,19.076,72.8777
+Ord-0037,2025-12-12,Desk,Furniture,Maharashtra,Pune,West,2,22714.31,4365.63,18.5204,73.8567
+Ord-0038,2025-09-11,Monitor,Electronics,Tamil Nadu,Chennai,South,4,68180.35,17001.67,13.0827,80.2707
+Ord-0039,2025-08-21,Keyboard,Electronics,West Bengal,Kolkata,East,5,18530.3,2076.88,22.5726,88.3639
+Ord-0040,2026-02-24,Tablet,Electronics,Gujarat,Ahmedabad,West,3,69573.13,10350.14,23.0225,72.5714
+Ord-0041,2026-04-18,Table,Furniture,Chandigarh,Chandigarh,North,4,60271.42,8636.18,30.7333,76.7794
+Ord-0042,2025-06-12,Bookshelf,Furniture,Gujarat,Ahmedabad,West,5,42799.76,5645.8,23.0225,72.5714
+Ord-0043,2025-10-04,Bookshelf,Furniture,Odisha,Bhubaneswar,East,4,37014.92,4454.09,20.2961,85.8245
+Ord-0044,2026-04-05,Table,Furniture,Rajasthan,Jaipur,North,3,45826.66,8093.56,26.9124,75.7873
+Ord-0045,2025-01-27,Tablet,Electronics,Kerala,Kochi,South,5,108637.49,25425.17,9.9312,76.2673
+Ord-0046,2026-03-29,Keyboard,Electronics,Maharashtra,Pune,West,1,3513.45,575.25,18.5204,73.8567
+Ord-0047,2025-01-17,Tablet,Electronics,West Bengal,Kolkata,East,4,79585.16,15099.72,22.5726,88.3639
+Ord-0048,2025-12-15,Keyboard,Electronics,West Bengal,Kolkata,East,3,10863.19,2629.13,22.5726,88.3639
+Ord-0049,2025-09-10,Keyboard,Electronics,Maharashtra,Mumbai,West,3,11302.83,1049.0,19.076,72.8777
+Ord-0050,2026-07-20,Desk,Furniture,Delhi,New Delhi,North,1,11484.55,1249.68,28.6139,77.209
+Ord-0051,2025-06-04,Tablet,Electronics,Telangana,Hyderabad,South,2,44470.86,11042.52,17.385,78.4867
+Ord-0052,2025-09-03,Phone,Electronics,Telangana,Hyderabad,South,2,62000.3,12306.61,17.385,78.4867
+Ord-0053,2026-06-09,Cabinet,Furniture,Uttar Pradesh,Lucknow,North,2,23008.05,5232.08,26.8467,80.9462
+Ord-0054,2026-05-27,Cabinet,Furniture,West Bengal,Kolkata,East,1,11143.23,1259.48,22.5726,88.3639
+Ord-0055,2025-02-20,Tablet,Electronics,Bihar,Patna,East,4,88369.22,13656.63,25.5941,85.1376
+Ord-0056,2025-11-01,Cabinet,Furniture,Tamil Nadu,Chennai,South,5,57805.44,13079.57,13.0827,80.2707
+Ord-0057,2025-02-22,Cabinet,Furniture,Rajasthan,Jaipur,North,3,30454.74,5140.19,26.9124,75.7873
+Ord-0058,2025-12-16,Keyboard,Electronics,West Bengal,Kolkata,East,4,14721.9,1664.23,22.5726,88.3639
+Ord-0059,2025-04-16,Desk,Furniture,Gujarat,Ahmedabad,West,4,44346.92,10857.07,23.0225,72.5714
+Ord-0060,2025-02-27,Tablet,Electronics,Bihar,Patna,East,1,21379.33,3285.97,25.5941,85.1376
+Ord-0061,2025-05-07,Cabinet,Furniture,Uttar Pradesh,Lucknow,North,5,51324.9,4811.63,26.8467,80.9462
+Ord-0062,2025-04-06,Keyboard,Electronics,Tamil Nadu,Chennai,South,1,3259.18,347.41,13.0827,80.2707
+Ord-0063,2025-09-29,Chair,Furniture,Bihar,Patna,East,1,5094.18,649.96,25.5941,85.1376
+Ord-0064,2025-03-17,Desk,Furniture,Odisha,Bhubaneswar,East,5,60606.58,9171.72,20.2961,85.8245
+Ord-0065,2025-08-08,Tablet,Electronics,Telangana,Hyderabad,South,5,101379.26,14002.46,17.385,78.4867
+Ord-0066,2026-04-19,Laptop,Electronics,Delhi,New Delhi,North,4,186311.89,15448.5,28.6139,77.209
+Ord-0067,2025-01-23,Desk,Furniture,Delhi,New Delhi,North,4,44696.46,6872.29,28.6139,77.209
+Ord-0068,2026-03-18,Cabinet,Furniture,Telangana,Hyderabad,South,5,58278.14,7247.0,17.385,78.4867
+Ord-0069,2025-12-02,Table,Furniture,Maharashtra,Mumbai,West,5,76733.51,14172.27,19.076,72.8777
+Ord-0070,2026-01-15,Phone,Electronics,Uttar Pradesh,Lucknow,North,1,31682.87,5962.36,26.8467,80.9462
+Ord-0071,2026-07-31,Laptop,Electronics,Maharashtra,Mumbai,West,5,249552.76,59904.89,19.076,72.8777
+Ord-0072,2025-01-12,Table,Furniture,Maharashtra,Mumbai,West,2,28116.1,3558.75,19.076,72.8777
+Ord-0073,2025-03-31,Phone,Electronics,Bihar,Patna,East,5,137549.96,26975.08,25.5941,85.1376
+Ord-0074,2025-07-15,Cabinet,Furniture,Karnataka,Bengaluru,South,2,19892.16,4345.63,12.9716,77.5946
+Ord-0075,2026-02-24,Keyboard,Electronics,Telangana,Hyderabad,South,2,7092.47,1625.38,17.385,78.4867
+Ord-0076,2026-04-02,Keyboard,Electronics,Tamil Nadu,Chennai,South,5,16638.41,1832.97,13.0827,80.2707
+Ord-0077,2025-04-06,Tablet,Electronics,Karnataka,Bengaluru,South,1,22697.33,2308.48,12.9716,77.5946
+Ord-0078,2025-10-06,Desk,Furniture,Karnataka,Bengaluru,South,5,56576.85,11064.94,12.9716,77.5946
+Ord-0079,2025-12-08,Tablet,Electronics,Tamil Nadu,Chennai,South,1,21295.81,3638.08,13.0827,80.2707
+Ord-0080,2025-03-17,Tablet,Electronics,Odisha,Bhubaneswar,East,1,20011.8,4861.91,20.2961,85.8245
+Ord-0081,2026-05-21,Desk,Furniture,Tamil Nadu,Chennai,South,4,51408.54,12420.47,13.0827,80.2707
+Ord-0082,2026-04-14,Keyboard,Electronics,Delhi,New Delhi,North,3,10588.61,1843.79,28.6139,77.209
+Ord-0083,2025-07-05,Keyboard,Electronics,Rajasthan,Jaipur,North,1,3221.48,767.54,26.9124,75.7873
+Ord-0084,2025-01-09,Keyboard,Furniture,Uttar Pradesh,Lucknow,North,5,56796.65,9814.78,26.8467,80.9462
+Ord-0085,2025-06-23,Cabinet,Furniture,Telangana,Hyderabad,South,4,46465.6,10340.54,17.385,78.4867
+Ord-0086,2025-07-13,Table,Furniture,Odisha,Bhubaneswar,East,2,29141.92,6749.92,20.2961,85.8245
+Ord-0087,2025-12-08,Keyboard,Electronics,Delhi,New Delhi,North,3,10548.67,2391.74,28.6139,77.209
+Ord-0088,2025-09-09,Laptop,Electronics,Rajasthan,Jaipur,North,1,50327.0,7022.48,26.9124,75.7873
+Ord-0089,2025-05-06,Chair,Furniture,Gujarat,Ahmedabad,West,3,14171.56,1929.36,23.0225,72.5714
+Ord-0090,2026-04-01,Phone,Electronics,Gujarat,Ahmedabad,West,4,120343.82,24786.68,23.0225,72.5714
+Ord-0091,2026-05-20,Bookshelf,Furniture,Odisha,Bhubaneswar,East,1,9203.28,1107.85,20.2961,85.8245
+Ord-0092,2025-05-14,Laptop,Electronics,West Bengal,Kolkata,East,1,52817.39,6233.05,22.5726,88.3639
+Ord-0093,2025-08-15,Keyboard,Electronics,Telangana,Hyderabad,South,5,18877.84,1747.06,17.385,78.4867
+Ord-0094,2026-06-10,Monitor,Electronics,Gujarat,Ahmedabad,West,1,17894.84,3346.3,23.0225,72.5714
+Ord-0095,2025-01-12,Keyboard,Electronics,Maharashtra,Mumbai,West,3,11153.19,978.42,19.076,72.8777
+Ord-0096,2025-05-02,Table,Furniture,Telangana,Hyderabad,South,4,55152.97,7559.39,17.385,78.4867
+Ord-0097,2026-06-24,Monitor,Electronics,West Bengal,Kolkata,East,2,34915.98,4154.9,22.5726,88.3639
+Ord-0098,2025-05-25,Keyboard,Electronics,West Bengal,Kolkata,East,1,3313.77,520.43,22.5726,88.3639
+Ord-0099,2026-07-12,Laptop,Electronics,Tamil Nadu,Chennai,South,5,261620.78,51383.45,13.0827,80.2707
+Ord-0100,2026-03-26,Chair,Furniture,Gujarat,Ahmedabad,West,2,9749.95,1743.27,23.0225,72.5714
+Ord-0101,2026-01-09,Table,Furniture,Telangana,Hyderabad,South,2,29978.57,3238.34,17.385,78.4867
+Ord-0102,2025-08-05,Phone,Electronics,Maharashtra,Mumbai,West,1,29034.39,6022.55,19.076,72.8777
+Ord-0103,2026-05-26,Laptop,Electronics,Chandigarh,Chandigarh,North,5,227858.03,19654.97,30.7333,76.7794
+Ord-0104,2026-03-13,Keyboard,Electronics,Maharashtra,Mumbai,West,4,14648.51,3661.42,19.076,72.8777
+Ord-0105,2025-05-25,Keyboard,Electronics,Uttar Pradesh,Lucknow,North,5,18726.01,4202.87,26.8467,80.9462
+Ord-0106,2026-03-22,Bookshelf,Furniture,Delhi,New Delhi,North,1,9645.56,1765.62,28.6139,77.209
+Ord-0107,2025-06-03,Laptop,Electronics,Maharashtra,Mumbai,West,2,96446.93,9577.64,19.076,72.8777
+Ord-0108,2025-02-23,Phone,Electronics,Telangana,Hyderabad,South,3,89426.65,20109.45,17.385,78.4867
+Ord-0109,2025-10-30,Keyboard,Electronics,West Bengal,Kolkata,East,3,10212.58,1049.68,22.5726,88.3639
+Ord-0110,2025-04-13,Keyboard,Electronics,Uttar Pradesh,Lucknow,North,5,17763.99,3852.26,26.8467,80.9462
+Ord-0111,2026-03-11,Phone,Electronics,Chandigarh,Chandigarh,North,2,60371.11,8855.32,30.7333,76.7794
+Ord-0112,2026-06-26,Monitor,Electronics,Maharashtra,Pune,West,1,17865.33,3809.26,18.5204,73.8567
+Ord-0113,2025-05-18,Cabinet,Furniture,Uttar Pradesh,Lucknow,North,3,33843.99,7290.0,26.8467,80.9462
+Ord-0114,2025-03-10,Laptop,Electronics,Karnataka,Bengaluru,South,2,103840.52,9476.5,12.9716,77.5946
+Ord-0115,2025-02-12,Chair,Furniture,Maharashtra,Pune,West,5,24063.36,2780.58,18.5204,73.8567
+Ord-0116,2026-01-09,Tablet,Electronics,Kerala,Kochi,South,1,21622.07,3879.22,9.9312,76.2673
+Ord-0117,2025-07-14,Monitor,Electronics,Karnataka,Bengaluru,South,4,69279.85,16104.38,12.9716,77.5946
+Ord-0118,2025-01-05,Phone,Electronics,Kerala,Kochi,South,5,140191.8,12189.35,9.9312,76.2673
+Ord-0119,2025-08-21,Cabinet,Furniture,Maharashtra,Pune,West,5,49814.87,8632.0,18.5204,73.8567
+Ord-0120,2025-03-14,Cabinet,Furniture,West Bengal,Kolkata,East,2,20309.84,2764.51,22.5726,88.3639
+Ord-0121,2025-04-17,Bookshelf,Furniture,Telangana,Hyderabad,South,1,9214.21,1538.6,17.385,78.4867
+Ord-0122,2025-09-10,Laptop,Electronics,Odisha,Bhubaneswar,East,2,105629.42,9968.03,20.2961,85.8245
+Ord-0123,2026-01-21,Table,Furniture,Rajasthan,Jaipur,North,2,31103.76,5297.44,26.9124,75.7873
+Ord-0124,2025-12-29,Cabinet,Furniture,Odisha,Bhubaneswar,East,3,31199.48,6279.5,20.2961,85.8245
+Ord-0125,2025-07-11,Phone,Electronics,West Bengal,Kolkata,East,2,57824.78,8530.19,22.5726,88.3639
+Ord-0126,2025-09-30,Desk,Furniture,Tamil Nadu,Chennai,South,5,55968.67,9843.44,13.0827,80.2707
+Ord-0127,2026-06-09,Chair,Furniture,Uttar Pradesh,Lucknow,North,2,9963.6,1192.11,26.8467,80.9462
+Ord-0128,2025-05-26,Bookshelf,Furniture,Rajasthan,Jaipur,North,4,34701.08,6603.61,26.9124,75.7873
+Ord-0129,2026-07-08,Chair,Furniture,Rajasthan,Jaipur,North,2,10003.94,1797.82,26.9124,75.7873
+Ord-0130,2025-11-11,Keyboard,Electronics,Tamil Nadu,Chennai,South,4,14227.71,2518.76,13.0827,80.2707
+Ord-0131,2025-10-04,Chair,Furniture,Odisha,Bhubaneswar,East,5,26701.61,2170.33,20.2961,85.8245
+Ord-0132,2025-12-16,Chair,Furniture,Chandigarh,Chandigarh,North,4,21062.94,1999.73,30.7333,76.7794
+Ord-0133,2025-02-09,Desk,Furniture,Karnataka,Bengaluru,South,1,10973.3,1856.32,12.9716,77.5946
+Ord-0134,2025-04-28,Monitor,Electronics,Delhi,New Delhi,North,2,36132.47,8525.72,28.6139,77.209
+Ord-0135,2026-01-27,Table,Furniture,Maharashtra,Mumbai,West,3,47148.98,9530.59,19.076,72.8777
+Ord-0136,2025-04-28,Tablet,Electronics,Telangana,Hyderabad,South,5,114235.96,12771.29,17.385,78.4867
+Ord-0137,2026-07-13,Tablet,Electronics,Rajasthan,Jaipur,North,4,87240.55,10574.4,26.9124,75.7873
+Ord-0138,2025-09-16,Cabinet,Furniture,Maharashtra,Mumbai,West,5,54510.43,12997.6,19.076,72.8777
+Ord-0139,2025-06-21,Chair,Furniture,Maharashtra,Mumbai,West,2,9817.68,1701.04,19.076,72.8777
+Ord-0140,2025-11-25,Table,Furniture,Maharashtra,Pune,West,2,27474.49,2846.36,18.5204,73.8567
+Ord-0141,2026-02-23,Bookshelf,Furniture,Maharashtra,Mumbai,West,3,26599.59,4868.72,19.076,72.8777
+Ord-0142,2025-11-30,Laptop,Electronics,Bihar,Patna,East,5,262377.87,64034.52,25.5941,85.1376
+Ord-0143,2026-07-01,Table,Furniture,Delhi,New Delhi,North,3,48100.56,5330.0,28.6139,77.209
+Ord-0144,2025-08-17,Table,Furniture,Maharashtra,Mumbai,West,4,63091.75,6546.48,19.076,72.8777
+Ord-0145,2025-03-19,Tablet,Electronics,Bihar,Patna,East,5,102690.82,12329.84,25.5941,85.1376
+Ord-0146,2025-10-23,Monitor,Electronics,Telangana,Hyderabad,South,1,19042.13,2793.78,17.385,78.4867
+Ord-0147,2026-07-29,Desk,Furniture,Karnataka,Bengaluru,South,3,36444.18,6259.75,12.9716,77.5946
+Ord-0148,2025-04-14,Bookshelf,Furniture,Maharashtra,Mumbai,West,1,9557.31,1388.31,19.076,72.8777
+Ord-0149,2025-06-28,Desk,Furniture,Gujarat,Ahmedabad,West,3,35196.3,4807.06,23.0225,72.5714
+Ord-0150,2026-04-23,Cabinet,Furniture,Karnataka,Bengaluru,South,4,45888.68,8508.33,12.9716,77.5946
+Ord-0151,2026-02-15,Monitor,Electronics,Uttar Pradesh,Lucknow,North,5,83457.13,11099.19,26.8467,80.9462
+Ord-0152,2025-04-28,Laptop,Electronics,Uttar Pradesh,Lucknow,North,4,200516.03,42031.76,26.8467,80.9462
+Ord-0153,2025-06-06,Monitor,Electronics,Chandigarh,Chandigarh,North,5,83065.32,12255.36,30.7333,76.7794
+Ord-0154,2025-05-10,Keyboard,Electronics,Karnataka,Bengaluru,South,5,16472.14,3340.27,12.9716,77.5946
+Ord-0155,2025-10-10,Tablet,Electronics,Kerala,Kochi,South,3,66118.24,13339.38,9.9312,76.2673
+Ord-0156,2025-05-14,Monitor,Electronics,Delhi,New Delhi,North,3,57922.21,8006.54,28.6139,77.209
+Ord-0157,2025-05-21,Desk,Furniture,Karnataka,Bengaluru,South,2,25692.26,2725.17,12.9716,77.5946
+Ord-0158,2026-04-05,Phone,Electronics,Karnataka,Bengaluru,South,1,28382.48,5774.03,12.9716,77.5946
+Ord-0159,2025-05-07,Monitor,Electronics,West Bengal,Kolkata,East,4,75039.5,6296.85,22.5726,88.3639
+Ord-0160,2025-02-20,Laptop,Electronics,Telangana,Hyderabad,South,4,193479.67,17745.31,17.385,78.4867
+Ord-0161,2026-02-09,Table,Furniture,Odisha,Bhubaneswar,East,1,15999.03,2506.13,20.2961,85.8245
+Ord-0162,2026-01-06,Monitor,Electronics,Telangana,Hyderabad,South,1,17276.15,2296.79,17.385,78.4867
+Ord-0163,2025-11-09,Keyboard,Electronics,Karnataka,Bengaluru,South,1,3618.88,415.99,12.9716,77.5946
+Ord-0164,2025-03-16,Cabinet,Furniture,Delhi,New Delhi,North,1,10126.25,1523.65,28.6139,77.209
+Ord-0165,2025-06-28,Phone,Electronics,Chandigarh,Chandigarh,North,2,59193.04,13977.68,30.7333,76.7794
+Ord-0166,2025-06-10,Table,Furniture,Chandigarh,Chandigarh,North,1,14845.59,2244.91,30.7333,76.7794
+Ord-0167,2025-03-25,Chair,Furniture,Maharashtra,Mumbai,West,2,9023.57,1739.76,19.076,72.8777
+Ord-0168,2025-12-26,Laptop,Electronics,Tamil Nadu,Chennai,South,4,194926.47,18422.39,13.0827,80.2707
+Ord-0169,2026-03-11,Desk,Furniture,Maharashtra,Mumbai,West,1,11469.46,1692.25,19.076,72.8777
+Ord-0170,2025-11-01,Table,Furniture,Kerala,Kochi,South,3,43330.03,6915.45,9.9312,76.2673
+Ord-0171,2025-06-24,Table,Furniture,Odisha,Bhubaneswar,East,3,41032.24,8692.26,20.2961,85.8245
+Ord-0172,2025-09-21,Phone,Electronics,Maharashtra,Pune,West,4,118391.5,19474.46,18.5204,73.8567
+Ord-0173,2025-06-11,Desk,Furniture,Odisha,Bhubaneswar,East,3,34819.04,4388.13,20.2961,85.8245
+Ord-0174,2025-01-08,Laptop,Electronics,West Bengal,Kolkata,East,4,210232.4,47804.52,22.5726,88.3639
+Ord-0175,2025-11-24,Bookshelf,Furniture,Maharashtra,Mumbai,West,3,25423.02,4937.7,19.076,72.8777
+Ord-0176,2025-09-21,Bookshelf,Furniture,Chandigarh,Chandigarh,North,5,41946.21,8010.34,30.7333,76.7794
+Ord-0177,2025-07-01,Tablet,Electronics,Maharashtra,Pune,West,3,70836.27,17039.64,18.5204,73.8567
+Ord-0178,2025-05-31,Desk,Furniture,Delhi,New Delhi,North,2,21656.17,2047.3,28.6139,77.209
+Ord-0179,2025-03-23,Tablet,Electronics,Delhi,New Delhi,North,5,116353.59,22025.43,28.6139,77.209
+Ord-0180,2026-01-21,Laptop,Electronics,Maharashtra,Pune,West,5,240381.78,29831.86,18.5204,73.8567
+Ord-0181,2025-09-13,Desk,Furniture,Gujarat,Ahmedabad,West,4,50376.85,6986.4,23.0225,72.5714
+Ord-0182,2026-05-21,Bookshelf,Furniture,Bihar,Patna,East,2,18989.86,2227.83,25.5941,85.1376
+Ord-0183,2025-05-08,Table,Furniture,Chandigarh,Chandigarh,North,1,15844.86,2580.55,30.7333,76.7794
+Ord-0184,2025-08-25,Phone,Electronics,Maharashtra,Mumbai,West,3,89301.81,18403.92,19.076,72.8777
+Ord-0185,2025-01-04,Desk,Furniture,Tamil Nadu,Chennai,South,1,11101.01,2463.74,13.0827,80.2707
+Ord-0186,2025-03-16,Cabinet,Furniture,Telangana,Hyderabad,South,5,51199.62,6466.11,17.385,78.4867
+Ord-0187,2025-02-03,Phone,Electronics,Chandigarh,Chandigarh,North,5,157006.47,25855.11,30.7333,76.7794
+Ord-0188,2025-12-08,Keyboard,Electronics,Maharashtra,Mumbai,West,1,3463.4,701.11,19.076,72.8777
+Ord-0189,2026-03-31,Bookshelf,Furniture,Delhi,New Delhi,North,3,27203.43,4953.41,28.6139,77.209
+Ord-0190,2026-07-12,Laptop,Electronics,Telangana,Hyderabad,South,2,97278.87,20531.19,17.385,78.4867
+Ord-0191,2026-01-06,Chair,Furniture,Maharashtra,Pune,West,3,13997.8,1334.79,18.5204,73.8567
+Ord-0192,2025-04-23,Keyboard,Electronics,Telangana,Hyderabad,South,3,9995.63,1404.03,17.385,78.4867
+Ord-0193,2026-02-10,Desk,Furniture,Kerala,Kochi,South,3,38551.51,5683.66,9.9312,76.2673
+Ord-0194,2026-04-12,Table,Furniture,Delhi,New Delhi,North,1,14228.76,2444.12,28.6139,77.209
+Ord-0195,2026-04-27,Monitor,Electronics,Gujarat,Ahmedabad,West,3,56827.08,13774.33,23.0225,72.5714
+Ord-0196,2025-01-17,Cabinet,Furniture,Tamil Nadu,Chennai,South,2,20222.13,1876.08,13.0827,80.2707
+Ord-0197,2025-02-08,Bookshelf,Furniture,Maharashtra,Mumbai,West,5,46076.06,7092.06,19.076,72.8777
+Ord-0198,2026-04-23,Tablet,Electronics,Gujarat,Ahmedabad,West,2,45931.37,9098.93,23.0225,72.5714
+Ord-0199,2025-01-17,Phone,Electronics,Chandigarh,Chandigarh,North,4,115797.04,11066.6,30.7333,76.7794
+Ord-0200,2025-08-04,Bookshelf,Furniture,Telangana,Hyderabad,South,1,8399.92,1445.82,17.385,78.4867
+Ord-0201,2025-07-19,Table,Furniture,Gujarat,Ahmedabad,West,5,77746.98,15790.22,23.0225,72.5714
+Ord-0202,2026-05-04,Phone,Electronics,Tamil Nadu,Chennai,South,1,30491.99,6032.53,13.0827,80.2707
+Ord-0203,2025-03-27,Cabinet,Furniture,Odisha,Bhubaneswar,East,2,22129.52,5529.95,20.2961,85.8245
+Ord-0204,2026-05-13,Desk,Furniture,Telangana,Hyderabad,South,5,61895.06,6978.16,17.385,78.4867
+Ord-0205,2026-02-06,Desk,Furniture,Kerala,Kochi,South,5,59121.51,13393.82,9.9312,76.2673
+Ord-0206,2025-07-07,Cabinet,Furniture,Kerala,Kochi,South,1,11187.33,1588.58,9.9312,76.2673
+Ord-0207,2025-07-02,Phone,Electronics,Odisha,Bhubaneswar,East,3,92279.88,12714.21,20.2961,85.8245
+Ord-0208,2026-02-01,Desk,Furniture,Uttar Pradesh,Lucknow,North,1,11962.95,2302.65,26.8467,80.9462
+Ord-0209,2025-11-07,Laptop,Electronics,Maharashtra,Pune,West,5,252713.84,30225.36,18.5204,73.8567
+Ord-0210,2025-05-21,Cabinet,Furniture,Gujarat,Ahmedabad,West,2,19884.23,4547.51,23.0225,72.5714
+Ord-0211,2026-04-22,Tablet,Electronics,Maharashtra,Pune,West,3,71255.46,9948.76,18.5204,73.8567
+Ord-0212,2025-08-27,Keyboard,Electronics,Bihar,Patna,East,4,14181.31,3240.79,25.5941,85.1376
+Ord-0213,2026-07-31,Cabinet,Furniture,Tamil Nadu,Chennai,South,1,10566.01,1783.84,13.0827,80.2707
+Ord-0214,2025-11-20,Laptop,Electronics,Bihar,Patna,East,3,147617.39,19262.67,25.5941,85.1376
+Ord-0215,2026-02-03,Keyboard,Electronics,Maharashtra,Pune,West,1,3324.68,780.49,18.5204,73.8567
+Ord-0216,2025-03-02,Bookshelf,Furniture,Maharashtra,Mumbai,West,4,33814.29,8165.93,19.076,72.8777
+Ord-0217,2026-07-18,Chair,Furniture,Delhi,New Delhi,North,3,15940.05,3955.71,28.6139,77.209
+Ord-0218,2025-08-31,Table,Furniture,Rajasthan,Jaipur,North,4,63048.52,7515.18,26.9124,75.7873
+Ord-0219,2026-05-21,Cabinet,Furniture,Odisha,Bhubaneswar,East,3,30748.58,3612.42,20.2961,85.8245
+Ord-0220,2026-06-05,Table,Furniture,Gujarat,Ahmedabad,West,5,68280.88,16711.57,23.0225,72.5714
+Ord-0221,2026-02-23,Monitor,Electronics,Gujarat,Ahmedabad,West,2,35802.2,4448.05,23.0225,72.5714
+Ord-0222,2025-04-30,Phone,Electronics,Maharashtra,Pune,West,1,27831.04,6086.42,18.5204,73.8567
+Ord-0223,2025-09-24,Bookshelf,Furniture,Odisha,Bhubaneswar,East,1,9549.77,2160.36,20.2961,85.8245
+Ord-0224,2025-07-14,Table,Furniture,Tamil Nadu,Chennai,South,3,42710.97,6877.96,13.0827,80.2707
+Ord-0225,2026-06-21,Phone,Electronics,Tamil Nadu,Chennai,South,4,108765.12,14785.39,13.0827,80.2707
+Ord-0226,2025-06-25,Phone,Electronics,Delhi,New Delhi,North,4,116050.07,14408.56,28.6139,77.209
+Ord-0227,2025-04-24,Phone,Electronics,Telangana,Hyderabad,South,5,140944.95,27646.91,17.385,78.4867
+Ord-0228,2025-02-09,Tablet,Electronics,Karnataka,Bengaluru,South,2,44124.85,8496.64,12.9716,77.5946
+Ord-0229,2026-07-25,Laptop,Electronics,Kerala,Kochi,South,3,158440.34,19281.96,9.9312,76.2673
+Ord-0230,2025-06-19,Bookshelf,Furniture,Kerala,Kochi,South,5,47279.81,9388.36,9.9312,76.2673
+Ord-0231,2025-01-31,Chair,Furniture,Rajasthan,Jaipur,North,4,18570.98,4266.65,26.9124,75.7873
+Ord-0232,2026-07-05,Cabinet,Furniture,Uttar Pradesh,Lucknow,North,2,23046.99,2739.51,26.8467,80.9462
+Ord-0233,2025-10-22,Monitor,Electronics,Maharashtra,Pune,West,2,37792.23,6283.7,18.5204,73.8567
+Ord-0234,2026-03-24,Laptop,Electronics,Maharashtra,Pune,West,1,50686.32,6293.55,18.5204,73.8567
+Ord-0235,2025-08-12,Tablet,Electronics,Karnataka,Bengaluru,South,3,68441.01,11772.9,12.9716,77.5946
+Ord-0236,2026-04-29,Keyboard,Electronics,Maharashtra,Pune,West,5,18234.74,1997.4,18.5204,73.8567
+Ord-0237,2026-02-05,Monitor,Electronics,Maharashtra,Pune,West,3,50217.19,10599.21,18.5204,73.8567
+Ord-0238,2025-07-29,Chair,Furniture,Telangana,Hyderabad,South,1,4552.13,421.97,17.385,78.4867
+Ord-0239,2025-01-07,Monitor,Electronics,Maharashtra,Pune,West,3,49864.44,10416.92,18.5204,73.8567
+Ord-0240,2026-04-27,Laptop,Electronics,Odisha,Bhubaneswar,East,3,141817.74,11370.24,20.2961,85.8245
+Ord-0241,2026-05-04,Phone,Electronics,Bihar,Patna,East,5,160496.2,15627.98,25.5941,85.1376
+Ord-0242,2025-05-10,Desk,Furniture,Uttar Pradesh,Lucknow,North,5,61491.77,7227.18,26.8467,80.9462
+Ord-0243,2026-03-16,Monitor,Electronics,Bihar,Patna,East,3,51256.08,12385.87,25.5941,85.1376
+Ord-0244,2026-03-29,Keyboard,Electronics,West Bengal,Kolkata,East,5,17761.36,2621.42,22.5726,88.3639
+Ord-0245,2025-06-12,Laptop,Electronics,Gujarat,Ahmedabad,West,2,106093.79,12634.95,23.0225,72.5714
+Ord-0246,2026-06-23,Bookshelf,Furniture,Maharashtra,Mumbai,West,4,36046.62,5773.25,19.076,72.8777
+Ord-0247,2025-01-27,Bookshelf,Furniture,Karnataka,Bengaluru,South,1,8247.69,875.26,12.9716,77.5946
+Ord-0248,2026-06-20,Phone,Electronics,Bihar,Patna,East,4,108385.82,23352.34,25.5941,85.1376
+Ord-0249,2025-07-25,Cabinet,Furniture,West Bengal,Kolkata,East,3,30801.63,4883.8,22.5726,88.3639
+Ord-0250,2026-05-16,Laptop,Electronics,Uttar Pradesh,Lucknow,North,4,188911.44,33046.31,26.8467,80.9462
+Ord-0251,2025-10-01,Phone,Electronics,Delhi,New Delhi,North,3,96946.49,10220.94,28.6139,77.209
+Ord-0252,2025-04-12,Phone,Electronics,Bihar,Patna,East,3,92258.71,20870.84,25.5941,85.1376
+Ord-0253,2026-02-05,Table,Furniture,Tamil Nadu,Chennai,South,3,44392.11,4343.24,13.0827,80.2707
+Ord-0254,2025-08-30,Bookshelf,Furniture,West Bengal,Kolkata,East,4,36951.97,6471.78,22.5726,88.3639
+Ord-0255,2025-04-26,Laptop,Electronics,West Bengal,Kolkata,East,2,99616.36,22914.82,22.5726,88.3639
+Ord-0256,2025-05-02,Chair,Furniture,Telangana,Hyderabad,South,2,10759.44,1228.15,17.385,78.4867
+Ord-0257,2025-11-13,Phone,Electronics,Maharashtra,Pune,West,2,55808.81,5456.79,18.5204,73.8567
+Ord-0258,2026-02-20,Chair,Furniture,Gujarat,Ahmedabad,West,1,5342.59,474.61,23.0225,72.5714
+Ord-0259,2025-11-14,Phone,Electronics,Tamil Nadu,Chennai,South,4,126812.93,25539.46,13.0827,80.2707
+Ord-0260,2025-11-10,Desk,Furniture,Rajasthan,Jaipur,North,3,38198.41,6611.79,26.9124,75.7873
+Ord-0261,2025-01-14,Cabinet,Furniture,Chandigarh,Chandigarh,North,3,29942.08,3230.15,30.7333,76.7794
+Ord-0262,2025-10-28,Phone,Electronics,Kerala,Kochi,South,4,113337.43,12141.0,9.9312,76.2673
+Ord-0263,2025-11-05,Cabinet,Furniture,Gujarat,Ahmedabad,West,3,35496.64,4872.7,23.0225,72.5714
+Ord-0264,2026-07-03,Tablet,Electronics,Uttar Pradesh,Lucknow,North,4,87996.96,17798.64,26.8467,80.9462
+Ord-0265,2025-02-04,Bookshelf,Furniture,Karnataka,Bengaluru,South,3,27460.58,3128.37,12.9716,77.5946
+Ord-0266,2025-06-08,Chair,Furniture,Odisha,Bhubaneswar,East,1,5256.41,576.17,20.2961,85.8245
+Ord-0267,2026-01-17,Table,Furniture,Telangana,Hyderabad,South,4,60790.66,12462.67,17.385,78.4867
+Ord-0268,2026-02-24,Table,Furniture,Rajasthan,Jaipur,North,2,31681.97,5651.27,26.9124,75.7873
+Ord-0269,2026-02-22,Keyboard,Electronics,Telangana,Hyderabad,South,2,6913.2,1579.54,17.385,78.4867
+Ord-0270,2025-09-25,Chair,Furniture,Rajasthan,Jaipur,North,2,10785.84,1383.34,26.9124,75.7873
+Ord-0271,2026-06-04,Phone,Electronics,Gujarat,Ahmedabad,West,5,154794.05,15845.73,23.0225,72.5714
+Ord-0272,2026-01-10,Desk,Furniture,Rajasthan,Jaipur,North,2,22626.19,5546.52,26.9124,75.7873
+Ord-0273,2026-01-16,Keyboard,Electronics,Delhi,New Delhi,North,5,17127.07,1653.74,28.6139,77.209
+Ord-0274,2025-05-25,Table,Furniture,Bihar,Patna,East,1,15289.08,1470.72,25.5941,85.1376
+Ord-0275,2025-09-18,Bookshelf,Furniture,Kerala,Kochi,South,1,8746.45,1975.45,9.9312,76.2673
+Ord-0276,2025-10-30,Table,Furniture,Maharashtra,Mumbai,West,4,55413.44,13569.07,19.076,72.8777
+Ord-0277,2025-12-27,Cabinet,Furniture,Kerala,Kochi,South,3,32325.62,4404.4,9.9312,76.2673
+Ord-0278,2025-11-09,Keyboard,Electronics,Maharashtra,Mumbai,West,4,14081.47,3397.28,19.076,72.8777
+Ord-0279,2025-07-23,Monitor,Electronics,Chandigarh,Chandigarh,North,4,65275.26,13393.72,30.7333,76.7794
+Ord-0280,2026-01-02,Laptop,Electronics,Delhi,New Delhi,North,1,51348.47,8004.34,28.6139,77.209
+Ord-0281,2025-10-20,Monitor,Electronics,Chandigarh,Chandigarh,North,2,38793.77,3914.49,30.7333,76.7794
+Ord-0282,2026-04-30,Cabinet,Furniture,Rajasthan,Jaipur,North,5,55836.03,6599.77,26.9124,75.7873
+Ord-0283,2026-05-05,Keyboard,Electronics,Delhi,New Delhi,North,1,3469.56,302.09,28.6139,77.209
+Ord-0284,2025-08-05,Keyboard,Electronics,Rajasthan,Jaipur,North,2,7516.05,607.6,26.9124,75.7873
+Ord-0285,2025-05-31,Bookshelf,Furniture,Maharashtra,Pune,West,3,26675.79,5158.22,18.5204,73.8567
+Ord-0286,2025-12-07,Monitor,Electronics,Bihar,Patna,East,2,33708.01,6555.65,25.5941,85.1376
+Ord-0287,2025-03-27,Desk,Furniture,Maharashtra,Mumbai,West,5,58792.5,13380.24,19.076,72.8777
+Ord-0288,2025-05-25,Laptop,Electronics,Maharashtra,Pune,West,2,96737.34,8027.04,18.5204,73.8567
+Ord-0289,2025-01-01,Table,Furniture,Telangana,Hyderabad,South,1,13582.05,3236.08,17.385,78.4867
+Ord-0290,2026-07-29,Keyboard,Electronics,Gujarat,Ahmedabad,West,5,17568.13,2446.49,23.0225,72.5714
+Ord-0291,2025-06-08,Laptop,Electronics,Tamil Nadu,Chennai,South,1,53940.03,11214.82,13.0827,80.2707
+Ord-0292,2025-01-19,Monitor,Electronics,Tamil Nadu,Chennai,South,2,35018.83,4748.4,13.0827,80.2707
+Ord-0293,2025-12-31,Phone,Electronics,Chandigarh,Chandigarh,North,2,63481.22,8501.61,30.7333,76.7794
+Ord-0294,2025-05-23,Laptop,Electronics,Kerala,Kochi,South,1,47955.43,8974.16,9.9312,76.2673
+Ord-0295,2026-05-12,Tablet,Electronics,Delhi,New Delhi,North,4,87888.24,15943.15,28.6139,77.209
+Ord-0296,2025-01-03,Chair,Furniture,Gujarat,Ahmedabad,West,2,10056.71,1092.52,23.0225,72.5714
+Ord-0297,2025-06-03,Cabinet,Furniture,Delhi,New Delhi,North,2,21697.56,1830.39,28.6139,77.209
+Ord-0298,2025-02-12,Keyboard,Electronics,Tamil Nadu,Chennai,South,2,6963.55,848.38,13.0827,80.2707
+Ord-0299,2025-01-21,Chair,Furniture,Uttar Pradesh,Lucknow,North,2,10287.88,1734.64,26.8467,80.9462
+Ord-0300,2025-02-20,Desk,Furniture,Uttar Pradesh,Lucknow,North,5,63698.73,7732.52,26.8467,80.9462
+Ord-0301,2026-01-08,Keyboard,Electronics,Rajasthan,Jaipur,North,5,16857.61,1639.26,26.9124,75.7873
+Ord-0302,2025-03-31,Tablet,Electronics,Rajasthan,Jaipur,North,2,44433.84,8964.33,26.9124,75.7873
+Ord-0303,2025-11-08,Desk,Furniture,Tamil Nadu,Chennai,South,4,44767.63,7578.16,13.0827,80.2707
+Ord-0304,2026-03-28,Cabinet,Furniture,Maharashtra,Mumbai,West,5,52039.97,12682.01,19.076,72.8777
+Ord-0305,2026-07-13,Desk,Furniture,Chandigarh,Chandigarh,North,1,11606.78,1967.41,30.7333,76.7794
+Ord-0306,2026-06-05,Desk,Furniture,Kerala,Kochi,South,5,63549.43,7547.99,9.9312,76.2673
+Ord-0307,2025-06-01,Table,Furniture,Telangana,Hyderabad,South,2,28948.17,6773.91,17.385,78.4867
+Ord-0308,2026-06-15,Cabinet,Furniture,Maharashtra,Mumbai,West,3,34336.32,4351.0,19.076,72.8777
+Ord-0309,2026-03-15,Desk,Furniture,Rajasthan,Jaipur,North,2,25097.17,5278.73,26.9124,75.7873
+Ord-0310,2026-03-08,Keyboard,Electronics,Maharashtra,Pune,West,1,3614.23,819.26,18.5204,73.8567
+Ord-0311,2025-03-18,Tablet,Electronics,Delhi,New Delhi,North,4,82465.99,15540.99,28.6139,77.209
+Ord-0312,2026-07-08,Bookshelf,Furniture,Odisha,Bhubaneswar,East,1,9700.21,1001.01,20.2961,85.8245
+Ord-0313,2025-10-29,Desk,Furniture,Chandigarh,Chandigarh,North,1,12295.66,3055.64,30.7333,76.7794
+Ord-0314,2025-02-05,Monitor,Electronics,Gujarat,Ahmedabad,West,2,34585.23,8090.84,23.0225,72.5714
+Ord-0315,2025-12-19,Keyboard,Electronics,Karnataka,Bengaluru,South,1,3525.32,522.46,12.9716,77.5946
+Ord-0316,2026-06-01,Chair,Furniture,Kerala,Kochi,South,1,5055.44,784.65,9.9312,76.2673
+Ord-0317,2025-02-27,Keyboard,Electronics,West Bengal,Kolkata,East,2,7156.97,853.4,22.5726,88.3639
+Ord-0318,2025-07-28,Chair,Furniture,Gujarat,Ahmedabad,West,2,10789.45,2077.11,23.0225,72.5714
+Ord-0319,2026-07-02,Phone,Electronics,Gujarat,Ahmedabad,West,4,109299.07,19191.87,23.0225,72.5714
+Ord-0320,2025-01-12,Bookshelf,Furniture,Delhi,New Delhi,North,2,16513.23,2585.36,28.6139,77.209
+Ord-0321,2025-10-06,Table,Furniture,Maharashtra,Mumbai,West,4,59128.77,8575.41,19.076,72.8777
+Ord-0322,2025-11-17,Tablet,Electronics,West Bengal,Kolkata,East,5,113596.17,23930.39,22.5726,88.3639
+Ord-0323,2025-06-10,Keyboard,Electronics,Tamil Nadu,Chennai,South,4,14171.44,1348.43,13.0827,80.2707
+Ord-0324,2026-04-26,Chair,Furniture,Delhi,New Delhi,North,4,20551.48,1770.45,28.6139,77.209
+Ord-0325,2026-03-25,Phone,Electronics,Uttar Pradesh,Lucknow,North,5,144723.68,13734.17,26.8467,80.9462
+Ord-0326,2026-04-11,Tablet,Electronics,Kerala,Kochi,South,4,83630.5,20088.53,9.9312,76.2673
+Ord-0327,2025-11-12,Chair,Furniture,Uttar Pradesh,Lucknow,North,3,15622.95,2775.88,26.8467,80.9462
+Ord-0328,2026-03-05,Monitor,Electronics,Delhi,New Delhi,North,2,35647.47,5258.73,28.6139,77.209
+Ord-0329,2025-01-07,Table,Furniture,Gujarat,Ahmedabad,West,2,31687.51,6876.42,23.0225,72.5714
+Ord-0330,2026-04-11,Bookshelf,Furniture,Rajasthan,Jaipur,North,5,40685.44,4318.54,26.9124,75.7873
+Ord-0331,2025-09-10,Monitor,Electronics,Bihar,Patna,East,2,36553.5,8035.25,25.5941,85.1376
+Ord-0332,2025-12-02,Laptop,Electronics,Chandigarh,Chandigarh,North,4,201829.35,20922.37,30.7333,76.7794
+Ord-0333,2025-04-27,Monitor,Electronics,Chandigarh,Chandigarh,North,3,57861.19,12745.9,30.7333,76.7794
+Ord-0334,2025-06-22,Table,Furniture,Maharashtra,Pune,West,5,67848.46,6986.92,18.5204,73.8567
+Ord-0335,2025-02-12,Monitor,Electronics,West Bengal,Kolkata,East,2,34199.84,7686.29,22.5726,88.3639
+Ord-0336,2026-06-01,Phone,Electronics,Bihar,Patna,East,4,115879.64,16883.47,25.5941,85.1376
+Ord-0337,2025-09-10,Phone,Electronics,Gujarat,Ahmedabad,West,2,56286.96,9140.0,23.0225,72.5714
+Ord-0338,2025-06-05,Bookshelf,Furniture,Karnataka,Bengaluru,South,3,25129.43,2329.17,12.9716,77.5946
+Ord-0339,2026-07-06,Tablet,Electronics,Bihar,Patna,East,4,88989.94,16698.27,25.5941,85.1376
+Ord-0340,2025-05-04,Keyboard,Electronics,Maharashtra,Mumbai,West,4,13371.76,2487.98,19.076,72.8777
+Ord-0341,2026-07-28,Desk,Furniture,Chandigarh,Chandigarh,North,2,22164.67,5113.89,30.7333,76.7794
+Ord-0342,2026-05-25,Tablet,Electronics,Odisha,Bhubaneswar,East,3,64319.86,14194.2,20.2961,85.8245
+Ord-0343,2026-04-16,Phone,Electronics,Uttar Pradesh,Lucknow,North,3,87781.01,18816.51,26.8467,80.9462
+Ord-0344,2025-08-30,Table,Furniture,Telangana,Hyderabad,South,5,70405.23,5777.49,17.385,78.4867
+Ord-0345,2025-06-13,Keyboard,Electronics,Odisha,Bhubaneswar,East,5,18274.84,4443.13,20.2961,85.8245
+Ord-0346,2025-11-04,Tablet,Electronics,Maharashtra,Mumbai,West,1,21969.92,3454.64,19.076,72.8777
+Ord-0347,2025-08-15,Keyboard,Electronics,Uttar Pradesh,Lucknow,North,2,6460.27,1466.43,26.8467,80.9462
+Ord-0348,2026-02-01,Monitor,Electronics,Tamil Nadu,Chennai,South,5,88443.04,18878.42,13.0827,80.2707
+Ord-0349,2025-05-10,Bookshelf,Furniture,Maharashtra,Mumbai,West,1,9167.08,2202.68,19.076,72.8777
+Ord-0350,2025-08-20,Laptop,Electronics,West Bengal,Kolkata,East,2,106745.74,13131.85,22.5726,88.3639
+Ord-0351,2025-03-20,Desk,Furniture,Delhi,New Delhi,North,2,23269.03,3642.1,28.6139,77.209
+Ord-0352,2026-03-25,Desk,Furniture,Maharashtra,Mumbai,West,5,55621.83,11422.71,19.076,72.8777
+Ord-0353,2026-01-20,Keyboard,Electronics,Uttar Pradesh,Lucknow,North,5,15869.77,3282.74,26.8467,80.9462
+Ord-0354,2025-10-04,Tablet,Electronics,Odisha,Bhubaneswar,East,3,59543.85,14445.65,20.2961,85.8245
+Ord-0355,2026-01-26,Cabinet,Furniture,Karnataka,Bengaluru,South,4,42369.65,8969.28,12.9716,77.5946
+Ord-0356,2025-12-18,Tablet,Electronics,Gujarat,Ahmedabad,West,3,64296.12,11151.18,23.0225,72.5714
+Ord-0357,2025-12-26,Cabinet,Furniture,Karnataka,Bengaluru,South,4,46719.29,9952.26,12.9716,77.5946
+Ord-0358,2026-01-17,Bookshelf,Furniture,Tamil Nadu,Chennai,South,2,18362.22,1501.53,13.0827,80.2707
+Ord-0359,2026-01-05,Bookshelf,Furniture,Rajasthan,Jaipur,North,1,9654.92,1557.37,26.9124,75.7873
+Ord-0360,2026-01-09,Keyboard,Electronics,Telangana,Hyderabad,South,4,13337.91,3289.06,17.385,78.4867
+Ord-0361,2025-09-30,Keyboard,Electronics,Odisha,Bhubaneswar,East,4,12994.73,1136.19,20.2961,85.8245
+Ord-0362,2025-05-04,Phone,Electronics,Karnataka,Bengaluru,South,1,29009.7,4451.63,12.9716,77.5946
+Ord-0363,2025-06-21,Bookshelf,Furniture,Telangana,Hyderabad,South,2,19255.57,2328.34,17.385,78.4867
+Ord-0364,2025-02-08,Laptop,Electronics,Gujarat,Ahmedabad,West,5,237865.81,52023.86,23.0225,72.5714
+Ord-0365,2025-10-29,Bookshelf,Furniture,Maharashtra,Mumbai,West,2,18260.87,2147.13,19.076,72.8777
+Ord-0366,2025-08-23,Desk,Furniture,Karnataka,Bengaluru,South,4,43665.33,5869.06,12.9716,77.5946
+Ord-0367,2026-06-25,Chair,Furniture,Tamil Nadu,Chennai,South,4,18155.43,1961.12,13.0827,80.2707
+Ord-0368,2026-02-11,Monitor,Electronics,Delhi,New Delhi,North,3,57981.06,9452.48,28.6139,77.209
+Ord-0369,2026-05-30,Chair,Furniture,Karnataka,Bengaluru,South,3,15547.1,3208.64,12.9716,77.5946
+Ord-0370,2025-10-08,Tablet,Electronics,Chandigarh,Chandigarh,North,5,100856.39,17964.48,30.7333,76.7794
+Ord-0371,2025-09-18,Table,Furniture,Delhi,New Delhi,North,2,30013.43,6542.86,28.6139,77.209
+Ord-0372,2026-05-06,Laptop,Electronics,Gujarat,Ahmedabad,West,4,183570.41,27215.05,23.0225,72.5714
+Ord-0373,2025-03-07,Cabinet,Furniture,Tamil Nadu,Chennai,South,5,56757.41,10484.09,13.0827,80.2707
+Ord-0374,2025-11-10,Bookshelf,Furniture,Tamil Nadu,Chennai,South,4,35796.55,8024.45,13.0827,80.2707
+Ord-0375,2025-03-11,Laptop,Electronics,Chandigarh,Chandigarh,North,1,53622.66,7643.91,30.7333,76.7794
+Ord-0376,2025-05-12,Tablet,Electronics,Karnataka,Bengaluru,South,5,101469.34,14765.2,12.9716,77.5946
+Ord-0377,2026-02-09,Cabinet,Furniture,Rajasthan,Jaipur,North,3,30518.67,5881.47,26.9124,75.7873
+Ord-0378,2025-09-30,Chair,Furniture,Telangana,Hyderabad,South,4,18652.75,2721.52,17.385,78.4867
+Ord-0379,2025-12-02,Desk,Furniture,Uttar Pradesh,Lucknow,North,4,47607.35,9663.28,26.8467,80.9462
+Ord-0380,2025-06-11,Desk,Furniture,Telangana,Hyderabad,South,4,48044.1,8772.51,17.385,78.4867
+Ord-0381,2025-11-15,Phone,Electronics,Bihar,Patna,East,3,85371.1,18803.7,25.5941,85.1376
+Ord-0382,2025-04-27,Tablet,Electronics,Bihar,Patna,East,5,113769.32,28093.6,25.5941,85.1376
+Ord-0383,2025-07-02,Tablet,Electronics,Rajasthan,Jaipur,North,5,101919.56,13839.94,26.9124,75.7873
+Ord-0384,2025-10-30,Phone,Electronics,Maharashtra,Mumbai,West,4,109350.91,23645.21,19.076,72.8777
+Ord-0385,2025-07-17,Bookshelf,Furniture,Kerala,Kochi,South,4,34340.39,3759.98,9.9312,76.2673
+Ord-0386,2025-05-04,Monitor,Electronics,Rajasthan,Jaipur,North,3,55267.06,13733.39,26.9124,75.7873
+Ord-0387,2026-05-15,Desk,Furniture,Kerala,Kochi,South,1,12852.68,1471.62,9.9312,76.2673
+Ord-0388,2025-09-11,Cabinet,Furniture,Odisha,Bhubaneswar,East,2,20454.56,4071.33,20.2961,85.8245
+Ord-0389,2026-03-02,Chair,Furniture,Chandigarh,Chandigarh,North,1,5336.66,1136.92,30.7333,76.7794
+Ord-0390,2025-02-18,Cabinet,Furniture,Gujarat,Ahmedabad,West,3,31938.87,5062.14,23.0225,72.5714
+Ord-0391,2025-10-22,Cabinet,Furniture,Delhi,New Delhi,North,5,56489.59,10580.44,28.6139,77.209
+Ord-0392,2025-07-01,Tablet,Electronics,Maharashtra,Pune,West,1,22889.64,1858.52,18.5204,73.8567
+Ord-0393,2026-02-12,Bookshelf,Furniture,Bihar,Patna,East,4,36657.07,8893.9,25.5941,85.1376
+Ord-0394,2025-09-27,Cabinet,Furniture,West Bengal,Kolkata,East,4,41783.7,5300.43,22.5726,88.3639
+Ord-0395,2025-08-16,Cabinet,Furniture,Karnataka,Bengaluru,South,2,23145.37,2906.68,12.9716,77.5946
+Ord-0396,2025-07-15,Monitor,Electronics,Karnataka,Bengaluru,South,2,38273.71,3967.9,12.9716,77.5946
+Ord-0397,2025-07-22,Laptop,Electronics,Maharashtra,Pune,West,3,144378.27,33636.05,18.5204,73.8567
+Ord-0398,2025-05-22,Table,Furniture,Rajasthan,Jaipur,North,5,68205.48,10312.32,26.9124,75.7873
+Ord-0399,2025-11-01,Keyboard,Electronics,Tamil Nadu,Chennai,South,2,7534.23,788.41,13.0827,80.2707
+Ord-0400,2026-03-21,Tablet,Electronics,Gujarat,Ahmedabad,West,1,23550.26,5756.87,23.0225,72.5714
+Ord-0401,2025-11-23,Laptop,Electronics,Tamil Nadu,Chennai,South,2,102960.14,15552.98,13.0827,80.2707
+Ord-0402,2025-12-20,Desk,Furniture,Chandigarh,Chandigarh,North,1,11930.52,1187.21,30.7333,76.7794
+Ord-0403,2026-06-13,Cabinet,Furniture,West Bengal,Kolkata,East,3,30101.95,6030.38,22.5726,88.3639
+Ord-0404,2026-05-29,Chair,Furniture,Maharashtra,Pune,West,2,9872.45,1068.02,18.5204,73.8567
+Ord-0405,2026-03-11,Bookshelf,Furniture,Chandigarh,Chandigarh,North,2,16516.1,3741.52,30.7333,76.7794
+Ord-0406,2026-07-25,Desk,Furniture,Odisha,Bhubaneswar,East,4,43738.04,7309.74,20.2961,85.8245
+Ord-0407,2026-01-26,Tablet,Electronics,Telangana,Hyderabad,South,3,68740.99,7852.41,17.385,78.4867
+Ord-0408,2025-08-02,Monitor,Electronics,Delhi,New Delhi,North,2,34539.79,7206.65,28.6139,77.209
+Ord-0409,2026-01-16,Table,Furniture,Karnataka,Bengaluru,South,5,76405.0,8211.66,12.9716,77.5946
+Ord-0410,2025-03-07,Table,Furniture,Tamil Nadu,Chennai,South,2,31053.94,5429.99,13.0827,80.2707
+Ord-0411,2025-08-15,Table,Furniture,Tamil Nadu,Chennai,South,3,47864.68,8212.59,13.0827,80.2707
+Ord-0412,2026-03-03,Desk,Furniture,Chandigarh,Chandigarh,North,4,47102.66,6950.23,30.7333,76.7794
+Ord-0413,2025-01-08,Keyboard,Electronics,Gujarat,Ahmedabad,West,3,9819.7,1097.28,23.0225,72.5714
+Ord-0414,2026-07-13,Bookshelf,Furniture,Karnataka,Bengaluru,South,4,34191.34,4550.85,12.9716,77.5946
+Ord-0415,2025-09-25,Table,Furniture,Bihar,Patna,East,2,27852.96,5523.32,25.5941,85.1376
+Ord-0416,2025-02-09,Desk,Furniture,Maharashtra,Pune,West,3,34752.89,8080.8,18.5204,73.8567
+Ord-0417,2025-09-17,Laptop,Electronics,Chandigarh,Chandigarh,North,4,187272.56,20846.85,30.7333,76.7794
+Ord-0418,2025-01-16,Chair,Furniture,Bihar,Patna,East,3,15882.52,3440.35,25.5941,85.1376
+Ord-0419,2025-09-17,Desk,Furniture,Maharashtra,Mumbai,West,5,61213.54,11501.66,19.076,72.8777
+Ord-0420,2026-06-21,Chair,Furniture,West Bengal,Kolkata,East,2,9769.48,1051.0,22.5726,88.3639
+Ord-0421,2026-01-17,Laptop,Electronics,Gujarat,Ahmedabad,West,4,205896.73,47632.95,23.0225,72.5714
+Ord-0422,2026-01-07,Keyboard,Electronics,Bihar,Patna,East,3,9804.21,2214.67,25.5941,85.1376
+Ord-0423,2026-03-26,Phone,Electronics,Chandigarh,Chandigarh,North,3,93305.24,23137.01,30.7333,76.7794
+Ord-0424,2026-04-21,Bookshelf,Furniture,West Bengal,Kolkata,East,5,42560.01,9332.28,22.5726,88.3639
+Ord-0425,2026-02-21,Cabinet,Furniture,Bihar,Patna,East,5,50618.14,4799.64,25.5941,85.1376
+Ord-0426,2025-12-04,Tablet,Electronics,Delhi,New Delhi,North,4,93540.9,19245.49,28.6139,77.209
+Ord-0427,2025-10-16,Bookshelf,Furniture,Telangana,Hyderabad,South,1,9463.15,1515.23,17.385,78.4867
+Ord-0428,2025-02-16,Phone,Electronics,Rajasthan,Jaipur,North,2,57401.13,4629.34,26.9124,75.7873
+Ord-0429,2025-07-10,Chair,Furniture,Uttar Pradesh,Lucknow,North,1,5089.75,1265.29,26.8467,80.9462
+Ord-0430,2025-07-10,Monitor,Electronics,Gujarat,Ahmedabad,West,2,35722.0,4711.83,23.0225,72.5714
+Ord-0431,2026-04-05,Tablet,Electronics,Delhi,New Delhi,North,1,21003.63,4012.48,28.6139,77.209
+Ord-0432,2025-07-29,Desk,Furniture,Maharashtra,Mumbai,West,1,12503.05,2413.68,19.076,72.8777
+Ord-0433,2025-12-20,Laptop,Electronics,Gujarat,Ahmedabad,West,3,135005.09,14680.96,23.0225,72.5714
+Ord-0434,2026-06-26,Chair,Furniture,Karnataka,Bengaluru,South,4,19373.8,1974.27,12.9716,77.5946
+Ord-0435,2025-06-03,Monitor,Electronics,Bihar,Patna,East,1,16336.16,3361.72,25.5941,85.1376
+Ord-0436,2026-03-02,Desk,Furniture,Chandigarh,Chandigarh,North,1,11431.19,2684.4,30.7333,76.7794
+Ord-0437,2025-03-04,Bookshelf,Furniture,Gujarat,Ahmedabad,West,4,32516.68,7923.59,23.0225,72.5714
+Ord-0438,2026-02-02,Desk,Furniture,Tamil Nadu,Chennai,South,1,11408.09,2605.24,13.0827,80.2707
+Ord-0439,2025-10-13,Chair,Furniture,Karnataka,Bengaluru,South,5,24933.14,2403.83,12.9716,77.5946
+Ord-0440,2025-11-30,Laptop,Electronics,Tamil Nadu,Chennai,South,4,190845.55,34680.6,13.0827,80.2707
+Ord-0441,2026-05-29,Bookshelf,Furniture,Bihar,Patna,East,4,32817.9,7519.59,25.5941,85.1376
+Ord-0442,2025-01-16,Chair,Furniture,Tamil Nadu,Chennai,South,1,5390.13,1004.99,13.0827,80.2707
+Ord-0443,2026-07-16,Laptop,Electronics,Odisha,Bhubaneswar,East,4,200981.05,50089.38,20.2961,85.8245
+Ord-0444,2025-07-20,Keyboard,Electronics,Delhi,New Delhi,North,5,16544.77,1942.99,28.6139,77.209
+Ord-0445,2026-04-25,Bookshelf,Furniture,Odisha,Bhubaneswar,East,4,38028.21,3460.44,20.2961,85.8245
+Ord-0446,2026-03-14,Table,Furniture,Maharashtra,Mumbai,West,5,76875.08,7224.35,19.076,72.8777
+Ord-0447,2025-08-20,Bookshelf,Furniture,West Bengal,Kolkata,East,3,28637.66,4449.57,22.5726,88.3639
+Ord-0448,2026-03-31,Tablet,Electronics,Delhi,New Delhi,North,4,91694.63,17305.8,28.6139,77.209
+Ord-0449,2025-07-13,Monitor,Electronics,West Bengal,Kolkata,East,4,71120.17,13575.28,22.5726,88.3639
+Ord-0450,2025-03-28,Phone,Electronics,Karnataka,Bengaluru,South,3,93046.22,15451.74,12.9716,77.5946
+Ord-0451,2025-09-19,Chair,Furniture,Chandigarh,Chandigarh,North,1,4502.63,390.65,30.7333,76.7794
+Ord-0452,2025-04-03,Table,Furniture,Telangana,Hyderabad,South,3,42742.2,10478.7,17.385,78.4867
+Ord-0453,2025-02-18,Laptop,Electronics,Odisha,Bhubaneswar,East,3,140294.64,25790.73,20.2961,85.8245
+Ord-0454,2025-12-07,Laptop,Electronics,Bihar,Patna,East,3,157785.96,20265.14,25.5941,85.1376
+Ord-0455,2025-12-10,Laptop,Electronics,Delhi,New Delhi,North,2,95282.8,22715.24,28.6139,77.209
+Ord-0456,2026-07-25,Laptop,Electronics,Delhi,New Delhi,North,1,52363.86,8921.33,28.6139,77.209
+Ord-0457,2026-05-09,Desk,Furniture,Uttar Pradesh,Lucknow,North,1,10864.08,2116.56,26.8467,80.9462
+Ord-0458,2025-04-19,Laptop,Electronics,Gujarat,Ahmedabad,West,4,206274.97,47439.93,23.0225,72.5714
+Ord-0459,2026-03-29,Laptop,Electronics,West Bengal,Kolkata,East,5,257329.32,62321.46,22.5726,88.3639
+Ord-0460,2026-03-07,Bookshelf,Furniture,Karnataka,Bengaluru,South,3,24310.22,4910.35,12.9716,77.5946
+Ord-0461,2026-02-24,Laptop,Electronics,Uttar Pradesh,Lucknow,North,4,204717.24,20361.77,26.8467,80.9462
+Ord-0462,2025-04-23,Keyboard,Electronics,Maharashtra,Pune,West,3,10577.05,1834.37,18.5204,73.8567
+Ord-0463,2025-04-15,Cabinet,Furniture,Maharashtra,Mumbai,West,3,31807.34,7636.73,19.076,72.8777
+Ord-0464,2025-07-29,Phone,Electronics,Telangana,Hyderabad,South,3,90617.3,7405.45,17.385,78.4867
+Ord-0465,2025-03-25,Chair,Furniture,Gujarat,Ahmedabad,West,1,5051.32,1154.37,23.0225,72.5714
+Ord-0466,2025-12-16,Keyboard,Electronics,Chandigarh,Chandigarh,North,2,6967.79,1539.41,30.7333,76.7794
+Ord-0467,2025-08-23,Phone,Electronics,Karnataka,Bengaluru,South,1,30752.36,5244.01,12.9716,77.5946
+Ord-0468,2026-07-28,Desk,Furniture,Maharashtra,Mumbai,West,5,58313.18,13687.44,19.076,72.8777
+Ord-0469,2025-04-17,Bookshelf,Furniture,Maharashtra,Mumbai,West,1,8209.16,1197.36,19.076,72.8777
+Ord-0470,2025-01-30,Monitor,Electronics,Maharashtra,Pune,West,3,49354.41,8500.35,18.5204,73.8567
+Ord-0471,2025-02-10,Phone,Electronics,West Bengal,Kolkata,East,3,88292.0,15757.94,22.5726,88.3639
+Ord-0472,2025-04-28,Table,Furniture,Uttar Pradesh,Lucknow,North,3,45215.81,6470.35,26.8467,80.9462
+Ord-0473,2025-07-15,Laptop,Electronics,Rajasthan,Jaipur,North,2,93003.48,14247.2,26.9124,75.7873
+Ord-0474,2025-07-21,Table,Furniture,Delhi,New Delhi,North,1,14433.87,1533.72,28.6139,77.209
+Ord-0475,2026-04-20,Phone,Electronics,West Bengal,Kolkata,East,4,108144.94,15745.76,22.5726,88.3639
+Ord-0476,2026-03-16,Laptop,Electronics,Bihar,Patna,East,1,51094.09,9349.32,25.5941,85.1376
+Ord-0477,2026-03-10,Chair,Furniture,West Bengal,Kolkata,East,1,4594.73,498.3,22.5726,88.3639
+Ord-0478,2025-06-04,Table,Furniture,Delhi,New Delhi,North,3,44808.49,4619.04,28.6139,77.209
+Ord-0479,2025-09-19,Chair,Furniture,Bihar,Patna,East,3,14547.56,1559.56,25.5941,85.1376
+Ord-0480,2025-06-19,Keyboard,Electronics,Kerala,Kochi,South,2,7434.1,741.5,9.9312,76.2673
+Ord-0481,2025-07-20,Keyboard,Electronics,West Bengal,Kolkata,East,3,11129.08,2031.06,22.5726,88.3639
+Ord-0482,2025-03-09,Monitor,Electronics,Maharashtra,Mumbai,West,1,17449.06,2405.63,19.076,72.8777
+Ord-0483,2026-01-14,Keyboard,Electronics,Delhi,New Delhi,North,1,3498.84,602.11,28.6139,77.209
+Ord-0484,2026-07-17,Tablet,Electronics,Uttar Pradesh,Lucknow,North,3,62991.72,7816.45,26.8467,80.9462
+Ord-0485,2025-10-27,Laptop,Electronics,Telangana,Hyderabad,South,5,240410.16,30277.76,17.385,78.4867
+Ord-0486,2025-10-07,Desk,Furniture,Kerala,Kochi,South,4,46200.47,8255.08,9.9312,76.2673
+Ord-0487,2026-03-11,Tablet,Electronics,Odisha,Bhubaneswar,East,5,111399.44,18170.66,20.2961,85.8245
+Ord-0488,2025-06-14,Laptop,Electronics,Odisha,Bhubaneswar,East,3,158768.5,29527.61,20.2961,85.8245
+Ord-0489,2025-03-05,Keyboard,Electronics,Uttar Pradesh,Lucknow,North,4,14748.45,2962.23,26.8467,80.9462
+Ord-0490,2025-05-20,Keyboard,Electronics,Kerala,Kochi,South,2,7209.9,1230.55,9.9312,76.2673
+Ord-0491,2025-07-03,Keyboard,Electronics,Chandigarh,Chandigarh,North,3,10488.22,942.01,30.7333,76.7794
+Ord-0492,2025-05-27,Bookshelf,Furniture,Rajasthan,Jaipur,North,2,19258.7,2027.85,26.9124,75.7873
+Ord-0493,2025-08-04,Monitor,Electronics,Telangana,Hyderabad,South,2,35584.39,6007.2,17.385,78.4867
+Ord-0494,2025-03-23,Bookshelf,Furniture,Uttar Pradesh,Lucknow,North,3,27105.58,6156.98,26.8467,80.9462
+Ord-0495,2026-05-26,Tablet,Electronics,West Bengal,Kolkata,East,4,91976.38,14808.4,22.5726,88.3639
+Ord-0496,2025-05-27,Table,Furniture,Tamil Nadu,Chennai,South,4,54034.21,10203.48,13.0827,80.2707
+Ord-0497,2025-10-14,Tablet,Electronics,Chandigarh,Chandigarh,North,3,59765.79,14652.22,30.7333,76.7794
+Ord-0498,2025-11-16,Phone,Electronics,Uttar Pradesh,Lucknow,North,5,135824.84,31001.78,26.8467,80.9462
+Ord-0499,2025-10-13,Keyboard,Electronics,Bihar,Patna,East,4,14627.18,1863.34,25.5941,85.1376
+Ord-0500,2026-05-03,Tablet,Electronics,Tamil Nadu,Chennai,South,3,61783.73,15389.73,13.0827,80.2707
